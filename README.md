@@ -1,7 +1,7 @@
 # coe528_final
 A repository for the final project of coe528.
 
-## PREFACE (For Yash, Kirill)
+## PREFACE (For Y.,K.,L.)
 
 The Good Food Center at Ryerson is overhauling their food management system for users of the food bank. In the original formula (without our application) there are three main users: Food Delivery Man, Food Center Volunteer, and Customer.
 
